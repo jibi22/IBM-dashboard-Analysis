@@ -28,7 +28,8 @@ The dashboard includes the following visualizations:
    - **Employee Number**
    - **Education Field**
    - **Department**
-
+     
+<a href= "https://github.com/jibi22/IBM-dashboard-Analysis/blob/main/ibm%20dashboard.png">Dashboard</a>
 ## How to Use
 1. Open the Power BI file (.pbix) in Microsoft Power BI.
 2. Connect the dataset (if needed) and refresh the data.
